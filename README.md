@@ -1,2 +1,2 @@
-# kinissimotelegrambot
-Small telgram bot to get cinema (postmodernissimo) show time table 
+# kinissimo
+Small telgram bot to get cinema (postmodernissimo) show time table.
